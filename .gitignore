@@ -1,0 +1,46 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter runtime files
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+
+# Python packaging
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# SQLite databases (optional)
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+Data-Science/
